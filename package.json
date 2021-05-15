@@ -39,7 +39,7 @@
   "devDependencies": {
     "@craco/craco": "^6.0.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
-    "autoprefixer": "9",
+    "autoprefixer": "10.2.5",
     "postcss": "7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
